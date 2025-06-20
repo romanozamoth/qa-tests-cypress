@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Cypress output
+cypress/screenshots/
+cypress/videos/
+
+# IDE and OS configuration files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

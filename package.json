@@ -1,0 +1,23 @@
+{
+  "name": "qa-tests-cypress",
+  "version": "1.0.0",
+  "description": "![Work in Progress](https://img.shields.io/badge/status-in--progress-orange)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanozamoth/qa-tests-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanozamoth/qa-tests-cypress/issues"
+  },
+  "homepage": "https://github.com/romanozamoth/qa-tests-cypress#readme",
+  "dependencies": {
+    "cypress": "^14.5.0"
+  }
+}

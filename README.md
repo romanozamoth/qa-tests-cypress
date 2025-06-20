@@ -13,10 +13,11 @@ The goal is to apply practical concepts from a QA course, gain hands-on experien
 
 ## 📁 Project Structure
 
-⏳ Coming soon...
 <!--
-```bash
+⏳ Coming soon...
+-->
 
+```bash
 qa-tests-cypress/
 
 ├── cypress/
@@ -32,13 +33,11 @@ qa-tests-cypress/
 ├── package.json        # Project dependencies
 
 └── README.md           # Project documentation
-
 ```
--->
 
 ## 🚀 Getting Started
 
-To run this project locally:
+To run this project locally, you need to install [NodeJS](https://nodejs.org/pt) and follow the steps:
 
 #### Clone the repo
 
