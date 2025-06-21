@@ -80,6 +80,7 @@ npx cypress open
 ## 📚 Resources
 
 - [Cypress Docs](https://docs.cypress.io/app/get-started/why-cypress)
+- [Restful API Dev](https://restful-api.dev/)
 - [Instructor YT](https://www.youtube.com/@QAzando)
 - [Instructor Site](https://qazando.com.br/)
 
