@@ -1,9 +1,11 @@
 {
   "valid": {
+    "name": "Teste QA",
     "email": "testeqa@hotmail.com",
     "password": "testeqa098"
   },
   "invalid": {
+    "name": "1nv4l1d",
     "email": "notanemail",
     "password": "123"
   }
