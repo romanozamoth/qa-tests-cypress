@@ -9,8 +9,6 @@ describe('APIs GET - Objects', () => {
             method: "GET",
             url: urlApi,
         }).then((response) => {
-            console.log('RESPOSTA API:')
-            console.log(response.body)
             expect(response.status).to.equal(200);
         })
     })
